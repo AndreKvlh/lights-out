@@ -19,8 +19,8 @@ main {
     top: 50%;
     left: 50%;
     background-color: gray;
-    width: 70vw;
-    height: 70vh;
+    width: 600px;
+    height: 650px;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.438);
